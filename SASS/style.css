@@ -1,0 +1,237 @@
+html, body {
+  margin: 0 auto;
+}
+
+.container {
+  margin: 0 auto;
+  width: 60%;
+  padding: 0;
+}
+
+.container header {
+  height: 100px;
+  background-color: #353535;
+  padding-top: 30px;
+}
+
+.container header h2, .container header p {
+  text-align: center;
+  color: white;
+  margin: 0 auto;
+}
+
+.container .greySection {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  margin: 0 auto;
+  height: 600px;
+}
+
+.container .greySection div {
+  display: inline-block;
+  width: 20%;
+}
+
+.container .greySection div:nth-child(1) {
+  background-color: #e8e8e8;
+}
+
+.container .greySection div:nth-child(2) {
+  background-color: #e4e4e4;
+}
+
+.container .greySection div:nth-child(3) {
+  background-color: #e1e1e1;
+}
+
+.container .greySection div:nth-child(4) {
+  background-color: #dddddd;
+}
+
+.container .greySection div:nth-child(5) {
+  background-color: #d9d9d9;
+}
+
+.container .greySection div:nth-child(6) {
+  background-color: #d5d5d5;
+}
+
+.container .greySection div:nth-child(7) {
+  background-color: #d1d1d1;
+}
+
+.container .greySection div:nth-child(8) {
+  background-color: #cdcdcd;
+}
+
+.container .greySection div:nth-child(9) {
+  background-color: #cacaca;
+}
+
+.container .greySection div:nth-child(10) {
+  background-color: #c6c6c6;
+}
+
+.container .greySection div:nth-child(11) {
+  background-color: #c2c2c2;
+}
+
+.container .greySection div:nth-child(12) {
+  background-color: #bebebe;
+}
+
+.container .greySection div:nth-child(13) {
+  background-color: #bababa;
+}
+
+.container .greySection div:nth-child(14) {
+  background-color: #b6b6b6;
+}
+
+.container .greySection div:nth-child(15) {
+  background-color: #b3b3b3;
+}
+
+.container .greySection div:nth-child(16) {
+  background-color: #afafaf;
+}
+
+.container .greySection div:nth-child(17) {
+  background-color: #ababab;
+}
+
+.container .greySection div:nth-child(18) {
+  background-color: #a7a7a7;
+}
+
+.container .greySection div:nth-child(19) {
+  background-color: #a3a3a3;
+}
+
+.container .greySection div:nth-child(20) {
+  background-color: #a0a0a0;
+}
+
+.container .greySection div:nth-child(21) {
+  background-color: #9c9c9c;
+}
+
+.container .greySection div:nth-child(22) {
+  background-color: #989898;
+}
+
+.container .greySection div:nth-child(23) {
+  background-color: #949494;
+}
+
+.container .greySection div:nth-child(24) {
+  background-color: #909090;
+}
+
+.container .greySection div:nth-child(25) {
+  background-color: #8c8c8c;
+}
+
+.container .greySection div:nth-child(26) {
+  background-color: #898989;
+}
+
+.container .greySection div:nth-child(27) {
+  background-color: #858585;
+}
+
+.container .greySection div:nth-child(28) {
+  background-color: #818181;
+}
+
+.container .greySection div:nth-child(29) {
+  background-color: #7d7d7d;
+}
+
+.container .greySection div:nth-child(30) {
+  background-color: #797979;
+}
+
+.container .greySection div:nth-child(31) {
+  background-color: #757575;
+}
+
+.container .greySection div:nth-child(32) {
+  background-color: #727272;
+}
+
+.container .greySection div:nth-child(33) {
+  background-color: #6e6e6e;
+}
+
+.container .greySection div:nth-child(34) {
+  background-color: #6a6a6a;
+}
+
+.container .greySection div:nth-child(35) {
+  background-color: #666666;
+}
+
+.container .greySection div:nth-child(36) {
+  background-color: #626262;
+}
+
+.container .greySection div:nth-child(37) {
+  background-color: #5e5e5e;
+}
+
+.container .greySection div:nth-child(38) {
+  background-color: #5b5b5b;
+}
+
+.container .greySection div:nth-child(39) {
+  background-color: #575757;
+}
+
+.container .greySection div:nth-child(40) {
+  background-color: #535353;
+}
+
+.container .greySection div:nth-child(41) {
+  background-color: #4f4f4f;
+}
+
+.container .greySection div:nth-child(42) {
+  background-color: #4b4b4b;
+}
+
+.container .greySection div:nth-child(43) {
+  background-color: #484848;
+}
+
+.container .greySection div:nth-child(44) {
+  background-color: #444444;
+}
+
+.container .greySection div:nth-child(45) {
+  background-color: #404040;
+}
+
+.container .greySection div:nth-child(46) {
+  background-color: #3c3c3c;
+}
+
+.container .greySection div:nth-child(47) {
+  background-color: #383838;
+}
+
+.container .greySection div:nth-child(48) {
+  background-color: #343434;
+}
+
+.container .greySection div:nth-child(49) {
+  background-color: #313131;
+}
+
+.container .greySection div:nth-child(50) {
+  background-color: #2d2d2d;
+}
+/*# sourceMappingURL=style.css.map */

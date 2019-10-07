@@ -1,0 +1,40 @@
+@import "var";
+// @import "components";
+// @import "mixins";
+
+html, body{
+	margin: 0 auto;
+}
+
+.container{
+	margin: 0 auto;
+	width: 60%;
+	padding: 0;
+	header{
+		height: 100px;
+		background-color: rgb(53, 53, 53);
+		padding-top: 30px;
+		h2, p{
+			text-align: center;
+			color: white;
+			margin: 0 auto;
+		}
+	}	
+	
+	.greySection{
+		display: flex;
+		flex-wrap: wrap;
+		margin: 0 auto;
+		height: 600px;
+		div{
+			display: inline-block;
+			width: 20%;
+		}
+	}
+
+	@for $i from 1 through 50 {
+		.greySection div:nth-child(#{$i}) {
+			background-color: darken($greyColor, $i * 1.5%);			
+		}
+	}
+}
